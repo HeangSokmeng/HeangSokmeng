@@ -1,4 +1,4 @@
-# 💻 Heang Sokmeng | Full-Stack Developer & Security Researcher
+# 🙏Hello I`m Sokmeng | Full-Stack Developer & Security Researcher
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Laravel+API+Specialist;Cybersecurity+%26+Pentesting+Expert;Full-Stack+Web+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
