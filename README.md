@@ -1,9 +1,11 @@
 # 🎮 Hello I'm Sokmeng | Full-Stack Developer & Security Researcher
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=heangsokmeng&color=00ff41&style=plastic&label=VISITORS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/heangsokmeng?label=FOLLOWERS&style=plastic&color=ff6b6b&labelColor=000000" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/heangsokmeng?label=STARS&style=plastic&color=ffd93d&labelColor=000000" alt="GitHub Stars" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Laravel+API+Specialist;Cybersecurity+%26+Pentesting+Expert;Full-Stack+Web+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=heangsokmeng&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/heangsokmeng?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/heangsokmeng?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
 </div>
 
 ```
