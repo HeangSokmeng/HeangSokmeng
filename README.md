@@ -82,7 +82,6 @@ class SokmengDeveloper extends Developer implements SecurityResearcher
 - **API Security Assessment** - REST/GraphQL API testing, Authentication bypass
 - **Social Engineering** - Phishing campaigns, Physical security assessments
 - **Vulnerability Assessment** - Automated scanning, Manual verification, Risk analysis
-- **Red Team Operations** - Advanced persistent threats, Lateral movement techniques
 
 ### 🛠️ Development Tools
 <div align="center">
@@ -118,28 +117,6 @@ class SokmengDeveloper extends Developer implements SecurityResearcher
 - 🔧 **Advanced Laravel Architecture Patterns**  
 - 🌐 **API Security & Best Practices**
 - 📱 **Modern Frontend Development**
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heangsokmeng&bg_color=0d1117&color=ffffff&line=00f5ff&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<!-- Add your best repositories here -->
-<div align="center">
-  <a href="https://github.com/heangsokmeng/laravel-api-boilerplate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heangsokmeng&repo=laravel-api-boilerplate&theme=radical" />
-  </a>
-  <a href="https://github.com/heangsokmeng/security-scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heangsokmeng&repo=security-scanner&theme=radical" />
-  </a>
-</div>
 
 ---
 
