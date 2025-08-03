@@ -1,11 +1,17 @@
 # 🎮 Hello I'm Sokmeng | Full-Stack Developer & Security Researcher
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Laravel+API+Specialist;Cybersecurity+%26+Pentesting+Expert;Full-Stack+Web+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=800&size=24&duration=1500&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=80&lines=INITIALIZING+HACKER+MODE...;LOADING+CYBERSECURITY+PROTOCOLS...;LARAVEL+API+SPECIALIST+ONLINE;PENETRATION+TESTING+EXPERT+READY;VULNERABILITY+SCANNER+ACTIVATED;FULL-STACK+WEB+DEVELOPER+MODE;BREAKING+SYSTEMS+TO+SECURE+THEM;ALWAYS+LEARNING+ALWAYS+HACKING;DIGITAL+FORTRESS+ARCHITECT;CODE+IS+POETRY+BUGS+ARE+FEATURES" alt="Hacking Typing SVG" />
 </div>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=heangsokmeng&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/heangsokmeng?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/heangsokmeng?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+realm;class+Hacker+extends+Developer;function+penetrate+target;SELECT+FROM+vulnerabilities;rm+rf+hackme;echo+Access+Granted;git+commit+Another+bug+bites+dust" alt="Code Typing" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=heangsokmeng&color=00ff41&style=plastic&label=VISITORS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/heangsokmeng?label=FOLLOWERS&style=plastic&color=ff6b6b&labelColor=000000" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/heangsokmeng?label=STARS&style=plastic&color=ffd93d&labelColor=000000" alt="GitHub Stars" />
 </div>
 
 ```
@@ -16,6 +22,10 @@
 ██║     ██║██╔╝ ██╗███████╗███████╗    ██████╔╝███████╗ ╚████╔╝ 
 ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝  
 ```
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&duration=50&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Scanning+for+vulnerabilities+100+percent;Penetration+test+initiated+100+percent;Exploiting+buffer+overflow+100+percent;Privilege+escalation+successful+100+percent;Backdoor+installed+100+percent;SYSTEM+COMPROMISED;ACCESS+GRANTED;WELCOME+TO+THE+MATRIX" alt="Hacking Progress" />
+</div>
 
 ---
 
@@ -46,6 +56,7 @@ class SokmengDeveloper extends Developer implements SecurityResearcher
     public function getGoals2024(): array
     {
         return [
+            'Master advanced Laravel patterns',
             'Earn cybersecurity certifications',
             'Contribute to open-source projects',
             'Share knowledge through content creation'
@@ -84,15 +95,32 @@ class SokmengDeveloper extends Developer implements SecurityResearcher
 
 ### 🎮 SPECIALIZED ATTACK PATTERNS
 ```
-┌─────────────────────────────────────────────────────────────┐
-│ 🕷️  WEB APP SECURITY      │ OWASP Top 10, XSS, CSRF       │
-│ 🌐  NETWORK PENETRATION   │ Port Scanning, Enumeration     │
-│ 🔓  API SECURITY TESTING  │ REST/GraphQL Authentication    │
-│ 🎭  SOCIAL ENGINEERING    │ Phishing, Physical Assessments │
-│ 🔎  VULNERABILITY HUNTING │ Manual + Automated Scanning    │
-│ 🏴‍☠️  RED TEAM OPERATIONS   │ APT Simulation, Lateral Move   │
-└─────────────────────────────────────────────────────────────┘
+┌─ HACKING PROTOCOLS ACTIVE ──────────────────────────────────┐
+│                                                             │
+│ 🕷️  WEB APP SECURITY      │ OWASP Top 10, XSS, CSRF      │
+│     └─> Scanning... ████████████████ 100%                  │
+│                                                             │
+│ 🌐  NETWORK PENETRATION   │ Port Scanning, Enumeration    │
+│     └─> Infiltrating... ████████████████ 100%              │
+│                                                             │
+│ 🔓  API SECURITY TESTING  │ REST/GraphQL Authentication   │
+│     └─> Bypassing... ████████████████ 100%                 │
+│                                                             │
+│ 🎭  SOCIAL ENGINEERING    │ Phishing, Physical Assessment │
+│     └─> Manipulating... ████████████████ 100%              │
+│                                                             │
+│ 🔎  VULNERABILITY HUNTING │ Manual + Automated Scanning   │
+│     └─> Exploiting... ████████████████ 100%                │
+│                                                             │
+│ 🏴‍☠️  RED TEAM OPERATIONS   │ APT Simulation, Lateral Move  │
+│     └─> Compromising... ████████████████ 100%              │
+│                                                             │
+└─ ALL SYSTEMS COMPROMISED ✓ ─────────────────────────────────┘
 ```
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=12&duration=100&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Buffer+overflow+detected;SQL+injection+vulnerability+found;XSS+payload+executed+successfully;Privilege+escalation+complete;Root+access+obtained;Mission+accomplished" alt="Exploit Simulation" />
+</div>
 
 ### ⚙️ DEVELOPMENT UTILITIES
 <div align="center">
@@ -117,24 +145,34 @@ class SokmengDeveloper extends Developer implements SecurityResearcher
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heangsokmeng&theme=neon-dark&background=000000&ring=00ff41&fire=ff6b6b&currStreakLabel=00ff41" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heangsokmeng&bg_color=000000&color=00ff41&line=ff6b6b&point=ffffff&area=true&hide_border=true" />
-</div>
-
 ---
 
 ## 🎖️ CURRENT QUESTS & MISSIONS
 
 ```
-┌─ ACTIVE QUESTS ──────────────────────────────────────────┐
-│                                                          │
-│  🛡️  MASTER ETHICAL HACKING & PENETRATION TESTING       │
-│  🔧  UNLOCK ADVANCED LARAVEL ARCHITECTURE PATTERNS      │
-│  🌐  COMPLETE API SECURITY & BEST PRACTICES CAMPAIGN    │
-│  📱  CONQUER MODERN FRONTEND DEVELOPMENT REALM          │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+┌─ ACTIVE HACKING MISSIONS ────────────────────────────────────┐
+│                                                              │
+│  🛡️  MASTER ETHICAL HACKING & PENETRATION TESTING           │
+│      Progress: ████████████████ 85% [NEARLY COMPLETE]       │
+│                                                              │
+│  🔧  UNLOCK ADVANCED LARAVEL ARCHITECTURE PATTERNS          │
+│      Progress: ████████████████ 78% [IN PROGRESS]           │
+│                                                              │
+│  🌐  COMPLETE API SECURITY & BEST PRACTICES CAMPAIGN        │
+│      Progress: ████████████████ 92% [ALMOST DONE]           │
+│                                                              │
+│  📱  CONQUER MODERN FRONTEND DEVELOPMENT REALM              │
+│      Progress: ████████████████ 70% [ADVANCING]             │
+│                                                              │
+│  🏴‍☠️  OBTAIN RED TEAM CERTIFICATION                          │
+│      Progress: ████████████████ 45% [TRAINING MODE]         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=12&duration=100&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Buffer+overflow+detected;SQL+injection+vulnerability+found;XSS+payload+executed+successfully;Privilege+escalation+complete;Root+access+obtained;Mission+accomplished" alt="Exploit Simulation" />
+</div>
 
 ---
 
@@ -156,10 +194,9 @@ class SokmengDeveloper extends Developer implements SecurityResearcher
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/heang-sokmeng-2b13a7266)
-[![Dev.to](https://img.shields.io/badge/📝_Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=333333)](https://dev.to/heang_sokmeng_e9166697476)
-[![YouTube](https://img.shields.io/badge/📺_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/@codebrewkh)
+[![Dev.to](https://img.shields.io/badge/📝_Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=333333)](https://dev.to/heangsokmeng)
+[![YouTube](https://img.shields.io/badge/📺_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/c/@codebrewkh)
 [![Facebook](https://img.shields.io/badge/👥_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000)](https://fb.com/heangsokmeng168)
-[![TikTok](https://img.shields.io/badge/🎵_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000)](https://www.tiktok.com/@codebrewkh)
 
 </div>
 
@@ -188,18 +225,6 @@ class SokmengDeveloper extends Developer implements SecurityResearcher
 ║                    🚀 HAPPY HACKING! 🚀                     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-=══════════════════════════════════════════════════════════════========================================================================================================================================                                                                                                                                                                                              
-     "🔰Another important point I'd like to personally emphasize is to define in detail what you're doing this for.
-    ❓Is it for the salary?
-    ❓The skills?
-    ❓The title?
-
-    It doesn't matter. 
-    💯 What's important is knowing exactly why you're doing or want to do this. This will later be crucial in determining whether you've reached your goal or not. People often don't notice their own                  development/progress.
-    Regardless of which direction you take, you will become a highly skilled specialist in the area where you have the most personal interest.
-    The secret to success lies in the quantity and quality of attention you bring to it.✔️ 🚀                     
-                                                             
-══════════════════════════════════════════════════════════════==========================================================================================================================================
 ```
 
 </div>
