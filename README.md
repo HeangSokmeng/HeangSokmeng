@@ -156,9 +156,10 @@ class SokmengDeveloper extends Developer implements SecurityResearcher
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/heang-sokmeng-2b13a7266)
-[![Dev.to](https://img.shields.io/badge/📝_Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=333333)](https://dev.to/heangsokmeng)
-[![YouTube](https://img.shields.io/badge/📺_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/c/@codebrewkh)
+[![Dev.to](https://img.shields.io/badge/📝_Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=333333)](https://dev.to/heang_sokmeng_e9166697476)
+[![YouTube](https://img.shields.io/badge/📺_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/@codebrewkh)
 [![Facebook](https://img.shields.io/badge/👥_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000)](https://fb.com/heangsokmeng168)
+[![TikTok](https://img.shields.io/badge/🎵_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000)](https://www.tiktok.com/@codebrewkh)
 
 </div>
 
@@ -187,6 +188,18 @@ class SokmengDeveloper extends Developer implements SecurityResearcher
 ║                    🚀 HAPPY HACKING! 🚀                     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
+=══════════════════════════════════════════════════════════════========================================================================================================================================                                                                                                                                                                                              
+     "🔰Another important point I'd like to personally emphasize is to define in detail what you're doing this for.
+    ❓Is it for the salary?
+    ❓The skills?
+    ❓The title?
+
+    It doesn't matter. 
+    💯 What's important is knowing exactly why you're doing or want to do this. This will later be crucial in determining whether you've reached your goal or not. People often don't notice their own                  development/progress.
+    Regardless of which direction you take, you will become a highly skilled specialist in the area where you have the most personal interest.
+    The secret to success lies in the quantity and quality of attention you bring to it.✔️ 🚀                     
+                                                             
+══════════════════════════════════════════════════════════════==========================================================================================================================================
 ```
 
 </div>
