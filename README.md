@@ -23,37 +23,32 @@
 
 ```php
 <?php
-namespace PixelWarrior;
 
-class SokmengDeveloper extends LegendaryHacker implements SecurityWizard
+class SokmengDeveloper extends Developer implements SecurityResearcher
 {
-    private $level = 99;
-    private $experience = "MASTER";
-    
-    public function getLoadout(): array
+    public function getCurrentStack(): array
     {
         return [
-            '🔥 BACKEND'  => ['Laravel 🚀', 'PHP 8.x ⚡', 'RESTful APIs 🌐'],
-            '💎 FRONTEND' => ['Vue.js ✨', 'HTML5 🏗️', 'CSS3 🎨'],
-            '🗄️ DATABASE' => ['PostgreSQL 🐘', 'MySQL 🐬'],
-            '🛡️ SECURITY' => ['Penetration Testing 🔓', 'Vulnerability Assessment 🔍'],
-            '⚙️ TOOLS'    => ['Git 📚', 'Postman 📮', 'Linux 🐧', 'Docker 🐳'],
-            '☁️ CLOUD'    => ['AWS ☁️', 'DigitalOcean 🌊']
+            'backend' => ['Laravel', 'PHP 8.x', 'RESTful APIs'],
+            'frontend' => ['Vue.js', 'HTML5', 'CSS3'],
+            'database' => ['PostgreSQL', 'MySQL'],
+            'security' => ['Penetration Testing', 'Vulnerability Assessment'],
+            'tools' => ['Git', 'Postman', 'Linux', 'Docker'],
+            'cloud' => ['AWS', 'DigitalOcean']
         ];
     }
 
-    public function getCurrentMission(): string
+    public function getCurrentFocus(): string
     {
-        return "🎮 Building secure, scalable APIs while hunting for vulnerabilities in the digital realm!";
+        return "Building secure, scalable APIs while hunting for vulnerabilities";
     }
 
-    public function getAchievements2024(): array
+    public function getGoals2024(): array
     {
         return [
-            '🏆 Master advanced Laravel patterns',
-            '🎖️ Earn cybersecurity certifications',
-            '🌟 Contribute to open-source projects',
-            '📺 Share knowledge through content creation'
+            'Earn cybersecurity certifications',
+            'Contribute to open-source projects',
+            'Share knowledge through content creation'
         ];
     }
 }
