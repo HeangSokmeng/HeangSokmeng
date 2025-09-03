@@ -14,15 +14,6 @@
   <img src="https://img.shields.io/github/stars/heangsokmeng?label=STARS&style=plastic&color=ffd93d&labelColor=000000" alt="GitHub Stars" />
 </div>
 
-```
-██████╗ ██╗██╗  ██╗███████╗██╗         ██████╗ ███████╗██╗   ██╗
-██╔══██╗██║╚██╗██╔╝██╔════╝██║         ██╔══██╗██╔════╝██║   ██║
-██████╔╝██║ ╚███╔╝ █████╗  ██║         ██║  ██║█████╗  ██║   ██║
-██╔═══╝ ██║ ██╔██╗ ██╔══╝  ██║         ██║  ██║██╔══╝  ╚██╗ ██╔╝
-██║     ██║██╔╝ ██╗███████╗███████╗    ██████╔╝███████╗ ╚████╔╝ 
-╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝  
-```
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&duration=50&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Scanning+for+vulnerabilities+100+percent;Penetration+test+initiated+100+percent;Exploiting+buffer+overflow+100+percent;Privilege+escalation+successful+100+percent;Backdoor+installed+100+percent;SYSTEM+COMPROMISED;ACCESS+GRANTED;WELCOME+TO+THE+MATRIX" alt="Hacking Progress" />
 </div>
