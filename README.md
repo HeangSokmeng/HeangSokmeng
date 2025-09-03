@@ -1,4 +1,4 @@
-# 🎮 Hello I'm Sokmeng | Full-Stack Developer & Security Researcher
+# I'm Sokmeng | Full-Stack Developer & Security Researcher
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=800&size=24&duration=1500&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=80&lines=INITIALIZING+HACKER+MODE...;LOADING+CYBERSECURITY+PROTOCOLS...;LARAVEL+API+SPECIALIST+ONLINE;PENETRATION+TESTING+EXPERT+READY;VULNERABILITY+SCANNER+ACTIVATED;FULL-STACK+WEB+DEVELOPER+MODE;BREAKING+SYSTEMS+TO+SECURE+THEM;ALWAYS+LEARNING+ALWAYS+HACKING;DIGITAL+FORTRESS+ARCHITECT;CODE+IS+POETRY+BUGS+ARE+FEATURES" alt="Hacking Typing SVG" />
