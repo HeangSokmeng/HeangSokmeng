@@ -113,16 +113,6 @@ class SokmengDeveloper extends Developer implements SecurityResearcher
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=12&duration=100&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Buffer+overflow+detected;SQL+injection+vulnerability+found;XSS+payload+executed+successfully;Privilege+escalation+complete;Root+access+obtained;Mission+accomplished" alt="Exploit Simulation" />
 </div>
 
-### ⚙️ DEVELOPMENT UTILITIES
-<div align="center">
-
-![Git](https://img.shields.io/badge/📚_Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-![Postman](https://img.shields.io/badge/📮_Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000)
-![Docker](https://img.shields.io/badge/🐳_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
-![Linux](https://img.shields.io/badge/🐧_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)
-
-</div>
-
 ---
 
 ## 📊 BATTLE STATISTICS
@@ -185,8 +175,8 @@ class SokmengDeveloper extends Developer implements SecurityResearcher
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/heang-sokmeng-2b13a7266)
-[![Dev.to](https://img.shields.io/badge/📝_Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=333333)](https://dev.to/heangsokmeng)
-[![YouTube](https://img.shields.io/badge/📺_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/c/@codebrewkh)
+[![Dev.to](https://img.shields.io/badge/📝_Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=333333)](https://dev.to/heang_sokmeng_e9166697476)
+[![YouTube](https://img.shields.io/badge/📺_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/@codebrewkh)
 [![Facebook](https://img.shields.io/badge/👥_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000)](https://fb.com/heangsokmeng168)
 
 </div>
