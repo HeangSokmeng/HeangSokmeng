@@ -47,8 +47,8 @@ class SokmengDeveloper extends Developer implements SecurityResearcher
     public function getGoals2024(): array
     {
         return [
-            'Master advanced Laravel patterns',
-            'Earn cybersecurity certifications',
+            'Advanced Laravel patterns',
+            'Cybersecurity',
             'Contribute to open-source projects',
             'Share knowledge through content creation'
         ];
