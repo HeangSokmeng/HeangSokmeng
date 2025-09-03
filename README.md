@@ -70,45 +70,6 @@ class SokmengDeveloper extends Developer implements SecurityResearcher
 
 </div>
 
-### 🛡️ HACKING & SECURITY TOOLKIT
-<div align="center">
-
-![Kali Linux](https://img.shields.io/badge/🐉_Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000000)
-![Burp Suite](https://img.shields.io/badge/🔥_Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=000000)
-![Metasploit](https://img.shields.io/badge/💥_Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=000000)
-![OWASP](https://img.shields.io/badge/🛡️_OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=333333)
-![Nmap](https://img.shields.io/badge/🔍_Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=000000)
-![Wireshark](https://img.shields.io/badge/📡_Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000000)
-![Nessus](https://img.shields.io/badge/🎯_Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white&labelColor=000000)
-![SQLmap](https://img.shields.io/badge/⚔️_SQLmap-CC2927?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
-
-</div>
-
-### 🎮 SPECIALIZED ATTACK PATTERNS
-```
-┌─ HACKING PROTOCOLS ACTIVE ──────────────────────────────────┐
-│                                                             │
-│ 🕷️  WEB APP SECURITY      │ OWASP Top 10, XSS, CSRF      │
-│     └─> Scanning... ████████████████ 100%                  │
-│                                                             │
-│ 🌐  NETWORK PENETRATION   │ Port Scanning, Enumeration    │
-│     └─> Infiltrating... ████████████████ 100%              │
-│                                                             │
-│ 🔓  API SECURITY TESTING  │ REST/GraphQL Authentication   │
-│     └─> Bypassing... ████████████████ 100%                 │
-│                                                             │
-│ 🎭  SOCIAL ENGINEERING    │ Phishing, Physical Assessment │
-│     └─> Manipulating... ████████████████ 100%              │
-│                                                             │
-│ 🔎  VULNERABILITY HUNTING │ Manual + Automated Scanning   │
-│     └─> Exploiting... ████████████████ 100%                │
-│                                                             │
-│ 🏴‍☠️  RED TEAM OPERATIONS   │ APT Simulation, Lateral Move  │
-│     └─> Compromising... ████████████████ 100%              │
-│                                                             │
-└─ ALL SYSTEMS COMPROMISED ✓ ─────────────────────────────────┘
-```
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=12&duration=100&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Buffer+overflow+detected;SQL+injection+vulnerability+found;XSS+payload+executed+successfully;Privilege+escalation+complete;Root+access+obtained;Mission+accomplished" alt="Exploit Simulation" />
 </div>
