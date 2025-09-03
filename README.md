@@ -157,22 +157,6 @@ class SokmengDeveloper extends Developer implements SecurityResearcher
 
 </div>
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  💭 "Security is not a product, but a process.              ║
-║      Code is poetry, and bugs are just typos               ║
-║      waiting to be discovered in the digital matrix."       ║
-║                                                              ║
-║                    🚀 HAPPY HACKING! 🚀                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ---
 
 <div align="center">
