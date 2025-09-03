@@ -127,30 +127,6 @@ class SokmengDeveloper extends Developer implements SecurityResearcher
 </div>
 
 ---
-
-## 🎖️ CURRENT QUESTS & MISSIONS
-
-```
-┌─ ACTIVE HACKING MISSIONS ────────────────────────────────────┐
-│                                                              │
-│  🛡️  MASTER ETHICAL HACKING & PENETRATION TESTING           │
-│      Progress: ████████████████ 85% [NEARLY COMPLETE]       │
-│                                                              │
-│  🔧  UNLOCK ADVANCED LARAVEL ARCHITECTURE PATTERNS          │
-│      Progress: ████████████████ 78% [IN PROGRESS]           │
-│                                                              │
-│  🌐  COMPLETE API SECURITY & BEST PRACTICES CAMPAIGN        │
-│      Progress: ████████████████ 92% [ALMOST DONE]           │
-│                                                              │
-│  📱  CONQUER MODERN FRONTEND DEVELOPMENT REALM              │
-│      Progress: ████████████████ 70% [ADVANCING]             │
-│                                                              │
-│  🏴‍☠️  OBTAIN RED TEAM CERTIFICATION                          │
-│      Progress: ████████████████ 45% [TRAINING MODE]         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=12&duration=100&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Buffer+overflow+detected;SQL+injection+vulnerability+found;XSS+payload+executed+successfully;Privilege+escalation+complete;Root+access+obtained;Mission+accomplished" alt="Exploit Simulation" />
 </div>
