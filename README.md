@@ -191,19 +191,6 @@ class SokmengDeveloper extends Developer implements SecurityResearcher
 
 </div>
 
----
-
-## ☕ POWER-UP MY CODING
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000000)](https://www.buymeacoffee.com/heangsokmeng)
-[![Ko-Fi](https://img.shields.io/badge/💝_Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=000000)](https://ko-fi.com/heangsokmeng)
-
-</div>
-
----
-
 <div align="center">
 
 ```
